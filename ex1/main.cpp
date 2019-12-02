@@ -1,3 +1,8 @@
+// This file is released into public domain.
+// Terms of CC0 1.0 (Creative Commons Zero 1.0) apply,
+// see <https://creativecommons.org/publicdomain/zero/1.0/legalcode> for details,
+// <https://creativecommons.org/publicdomain/zero/1.0/> for summary
+
 #include <algorithm>
 #include <iomanip>
 #include <iostream>
